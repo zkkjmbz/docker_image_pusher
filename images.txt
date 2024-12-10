@@ -6,3 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel2
 docker.io/flannel/flannel:v0.26.1
+kubernetesui/dashboard:v2.5.1
+kubernetesui/metrics-scraper:v1.0.7
